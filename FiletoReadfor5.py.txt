@@ -1,0 +1,4 @@
+Hello World
+We will read this file.
+We will count length of file in respective of characters.
+We will also count per line length.
